@@ -1,4 +1,4 @@
-package br.com.fiap.listaFilmes.dao;
+package br.com.fiap.dao;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
